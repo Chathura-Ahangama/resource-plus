@@ -1,15 +1,5 @@
-import React, { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import "./index.css";
-// =====================
-// Resource Plus — Hackathon-Ready MVP (Single-file React)
-// What’s new:
-// - Demo Mode banner + helpful tips
-// - Upload form with subject/category, size limit, inline validation
-// - Quick "Seed Sample Data" for judges (adds realistic PDFs + videos)
-// - Leaderboard (Top Contributors)
-// - Signup grants a Welcome achievement (hash-chained, tamper-evident)
-// - Small UX polish: toasts, empty states, accessibility labels
-// =====================
 
 // ---------- Utilities ----------
 const LS_KEYS = {
