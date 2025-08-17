@@ -27,7 +27,7 @@ Resource Plus is a comprehensive platform designed to bridge the gap in educatio
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Chathura-Ahangama/resourse-plus
+   git clone https://github.com/Chathura-Ahangama/resource-plus
    cd resource-plus
    ```
 
